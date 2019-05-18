@@ -1,5 +1,2 @@
 # hello_world
-Just a test project.
-
-# Made a new branch.
-Hello, this is a test.
+This is a simple test project, just print "Hello, Linux!".
